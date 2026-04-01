@@ -27,7 +27,7 @@ To run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Document_QA_Assistant.git
+   git clone https://github.com/Seif-aber/Document_QA_Assistant.git
    cd Document_QA_Assistant
 2. Install the required dependencies:
    ```bash
